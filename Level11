@@ -1,0 +1,8 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit10 and password as truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+2. to read file data use base64 -d (base64 -d data.txt)
+
+    Solution(password for bandit11) :  IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
