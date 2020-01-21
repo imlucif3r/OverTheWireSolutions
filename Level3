@@ -1,0 +1,12 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit2 and password as CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+2. list out the contents of the present working directory using (ls -l)
+3. You will find a file with spaces
+4. The contents of this file can be accessed in either two ways which is
+    (a) Typing cat s (pressing Tab will automatically take the filename)
+    (b) Typing complete command manually i.e "cat spaces\ in\ this\ filename" (without quotes)
+
+  Solution(password for bandit3) :  UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK

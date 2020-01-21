@@ -1,0 +1,9 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit1 and password as boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+2. inside the present working directory list out the contents to it using command (cat) since it is a dashed file
+   using cat directly to the file does'nt work so instead use ( cat ./-) to fetch the contents of the file
+
+  Solution(password for bandit3) :  CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
