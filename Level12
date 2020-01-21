@@ -1,0 +1,8 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit11 and password as IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+2. transfer to 13 characters ROT13 upper to lower case then N-Z to A-M similarly (tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "<text>")
+
+    Solution(password for bandit12) :  5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
