@@ -1,0 +1,10 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit6 and password as DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+2. to Find the human readable file use command (find /  -type f ! -executable -size 33c -user bandit7 -group bandit6)
+6. /var/lib/dpkg/info/bandit7.password
+7. cat that file to view the contents
+
+    Solution(password for bandit7) :  HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
