@@ -1,0 +1,13 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit4 and password as pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+2. list out the contents of the present working directory using (ls -l)
+3. You will find a directory (inhere)
+4. Go into that directory (cd inhere)
+5. to Find the human readable file use command (find . -type f ! -executable | xargs file)
+6. ./-file07 has a ASCII type text
+7. cat that file to view the contents
+
+  Solution(password for bandit5) :  koReBOKuIDDepwhWk7jZC0RTdopnAYKh
