@@ -7,7 +7,7 @@ Port : 2220
 3. You will find a directory (inhere)
 4. Go into that directory (cd inhere)
 5. To list out the hidden files use attribute -a along with ls command i.e (ls -la)
-6. a .hiden file is shown
+6. a .hidden file is shown
 7. cat that hidden file (cat .hidden)
 
   Solution(password for bandit4) :  pIwrPrtPN36QITSp3EQaw936yaFoFgAB
