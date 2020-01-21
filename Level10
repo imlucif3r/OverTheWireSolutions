@@ -1,0 +1,10 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit9 and password as UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+2. to read file data and use grep command (strings data.txt)
+3. Value which has more number of equal symbols in strings output
+4. It can be greped and value can be fetched directly as well
+
+    Solution(password for bandit10) :  truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk

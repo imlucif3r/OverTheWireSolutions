@@ -4,6 +4,6 @@ Port : 2220
 
 1. bandit7 and password as HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 2. to read file data and use grep command (cat data.txt | grep millionth)
-7. cat that file to view the contents
+3. cat that file to view the contents
 
     Solution(password for bandit8) :  cvX2JJa4CFALtqS87jk27qwqGhBM9plV

@@ -1,0 +1,9 @@
+Login to Putty Console using ssh
+Host : bandit.labs.overthewire.org
+Port : 2220
+
+1. bandit8 and password as cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+2. to read file data and use grep command (cat data.txt |xargs file|cut -d":" -f1|sort | uniq -c)
+3. Unique value will be shown with minimum count 
+
+    Solution(password for bandit9) :  UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
